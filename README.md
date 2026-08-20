@@ -1,2 +1,2 @@
-# DAA-PRACTICAL1
-This is my DAA practical 1
+# DAA-PRACTICAL
+These are my DAA practicals
